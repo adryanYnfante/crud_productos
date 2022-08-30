@@ -24,5 +24,5 @@ const ProductoSchema = mongoose.Schema({
     }
 
 });
-
+//hola 
 module.exports= mongoose.model('Producto', ProductoSchema);
