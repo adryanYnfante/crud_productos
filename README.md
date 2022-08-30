@@ -24,4 +24,4 @@ Listar Productos
 ![listar_productos](https://user-images.githubusercontent.com/92740455/160890465-a8249ad5-00c3-4386-9a64-d0fcec30c438.jpg)
 
 
-### Creado por Adryan Ynfante, adryanynfante@gmail.com
+### Creado por Adryan Ynfante 
